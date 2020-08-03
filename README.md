@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Electrician, amature Photographer, Drone Pilot and Space Pirate 🏴‍☠️!
 
-- 🪂 I’m currently learning everything Full stack from work with a pasion for front end
+- 🪂 I’m currently learning everything Full stack from work with a passion for front end
 - 👀 I'm also learning Vue.js and React
 - 🌏 2020 Goals: To become a front end wizard
 - 🚁 Fun fact: I have a remote pilots licence to fly a drone
