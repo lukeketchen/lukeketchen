@@ -1,6 +1,6 @@
 ### Hi there, I'm [Luke Ketchen][website] 👋
 
-## I'm a Developer, Electrician, amature Photographer, Drone Pilot and Space Pirate 🏴‍☠️!
+## I'm a Developer, Electrician, Photographer, Drone Pilot and Space Pirate 🏴‍☠️!
 
 - 🪂 I’m currently learning everything Full stack from work with a passion for front end
 - 👀 I'm also learning Vue.js and React
