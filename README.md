@@ -2,8 +2,9 @@
 
 ## I'm a Developer, Electrician, Photographer, Drone Pilot and Space Pirate 🏴‍☠️!
 
-- 🪂 I’m currently working as a full stack dev using SASS and PHP
-- 👀 I'm also getting into Vue.js and Laravel. They are very cool languages
+- 🪂 I’m currently working as a full stack Wordpress dev using SASS and PHP
+- 👀 I'm also getting into Vue.js and Laravel. They are very cool
+- 📓 Passionate about efficiency and writing scripts to automate all the things
 - 🌏 2021 Goals: To become a full stack wizard
 - 🚁 Fun fact: I have a remote pilots licence to fly a drone commercially
 
