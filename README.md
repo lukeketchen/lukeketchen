@@ -5,7 +5,7 @@
 - 🪂 I’m currently working as a full stack Wordpress dev using SASS and PHP
 - 👀 I'm also getting into Vue.js and Laravel. They are very cool
 - 📓 Passionate about efficiency and writing scripts to automate all the things
-- 🌏 2021 Goals: To become a full stack wizard
+- 🌏 2022 Goals: To become a full stack wizard
 - 🚁 Fun fact: I have a remote pilots licence to fly a drone commercially
 
 ### Connect with me:
