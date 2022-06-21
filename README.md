@@ -39,8 +39,6 @@
 
 ---
 
-<img align="left" alt="Luke Ketchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukeketchen&show_icons=true&hide_border=true" />
-
 [website]: https://www.lukeketchen.com/
 [twitter]: https://twitter.com/luke_ketchen
 [instagram]: https://instagram.com/luke.ketchen.photography/
