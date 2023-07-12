@@ -2,19 +2,17 @@
 
 ## I'm a Developer, Electrician, Photographer, Drone Pilot and Space Pirate 🏴‍☠️!
 
-- 🪂 I’m currently working as a full stack Wordpress dev using SASS and PHP
+- 🪂 I’m currently working as a Laravel dev with Vue.js
 - 👀 I'm also getting into Vue.js and Laravel. They are very cool
 - 📓 Passionate about efficiency and writing scripts to automate all the things
-- 🌏 2022 Goals: To become a full stack wizard
+- 🌏 2023 Goals: To become a keyboard wizard
 - 🚁 Fun fact: I have a remote pilots licence to fly a drone commercially
 
 ### Connect with me:
 
 [<img align="left" alt="lukeketchen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="luke ketchen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Luke Ketchen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!-- [<img align="left" alt="Luke Ketchen Photography" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
