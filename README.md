@@ -3,7 +3,6 @@
 ## I'm a Developer, Electrician, Photographer, Drone Pilot and Space Pirate 🏴‍☠️!
 
 - 🪂 I’m currently working as a Laravel dev with Vue.js
-- 👀 I'm also getting into Vue.js and Laravel. They are very cool
 - 📓 Passionate about efficiency and writing scripts to automate all the things
 - 🌏 2023 Goals: To become a keyboard wizard
 - 🚁 Fun fact: I have a remote pilots licence to fly a drone commercially
