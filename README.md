@@ -4,7 +4,7 @@
 
 - 🪂 I’m currently working as a Laravel dev with Vue.js
 - 📓 Passionate about efficiency and writing scripts to automate all the things
-- 🌏 2023 Goals: To become a keyboard wizard
+- 🌏 2024 Goals: To become a keyboard wizard
 - 🚁 Fun fact: I have a remote pilots licence to fly a drone commercially
 
 ### Connect with me:
